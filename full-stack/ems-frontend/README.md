@@ -17,11 +17,15 @@ If you are developing a production application, we recommend using TypeScript wi
 ## To run Frontend
 
   cd ems-frontend
+  
   npm install
+  
   npm run dev
 
   npm install bootstrap -- save
+  
   npm install axis --save
+  
   npm install react-router-dom
 
   Frontend runs at: http://localhost:3000
