@@ -39,23 +39,8 @@ Backend
 
 ## Backend Structure
 
-/backend
-  └── code.ems_backend
-       ├── controller/
-       │   └── EmployeeController.java
-       ├── dto/
-       │   └── EmployeeDto.java
-       ├── entity/
-       │   └── Employee.java
-       ├── mapper/
-       │   └── EmployeeMapper.java
-       ├── repository/
-       │   └── EmployeeRepository.java
-       ├── service/
-       │   ├── EmployeeService.java
-       │   └── EmployeeServiceImpl.java
-       └── exception/
-           └── ResourceNotFoundException.java
+![image](https://github.com/user-attachments/assets/3bb4d66e-eb4a-45b2-befc-e8f61915b66b)
+
 
   ## Runt the Project
   1. Start the Backend(SprintBoot)
