@@ -1,0 +1,42 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+
+# Environment
+.env
+
+# Build
+/build/
+
+# Others
+*.swp
+
+# Node (if any frontend in same repo)
+/node_modules/
+
+# Ignore test output
+/surefire-reports/
+
+# Ignore generated sources
+/generated-sources/
+/generated-test-sources/
